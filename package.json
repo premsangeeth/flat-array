@@ -1,0 +1,24 @@
+{
+  "name": "flat-array",
+  "version": "1.0.0",
+  "description": "provide api to flat n dimensional array to single dimension array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premsangeeth/flat-array.git"
+  },
+  "author": "prem-sangeeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/premsangeeth/flat-array/issues"
+  },
+  "homepage": "https://github.com/premsangeeth/flat-array#readme",
+  "dependencies": {
+    "is-integer": "^1.0.6",
+    "mocha": "^3.0.2",
+    "stackjs": "^0.1.0"
+  }
+}
